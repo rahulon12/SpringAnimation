@@ -11,6 +11,7 @@
 		B71CB17927DEA99A00345F6F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71CB17827DEA99A00345F6F /* ContentView.swift */; };
 		B71CB17B27DEA99C00345F6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B71CB17A27DEA99C00345F6F /* Assets.xcassets */; };
 		B71CB17E27DEA99C00345F6F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B71CB17D27DEA99C00345F6F /* Preview Assets.xcassets */; };
+		B71CB18527DEA9C500345F6F /* ChainedSpring.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71CB18427DEA9C500345F6F /* ChainedSpring.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B71CB17827DEA99A00345F6F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B71CB17A27DEA99C00345F6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B71CB17D27DEA99C00345F6F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B71CB18427DEA9C500345F6F /* ChainedSpring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChainedSpring.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B71CB17627DEA99A00345F6F /* SpringAnimationApp.swift */,
 				B71CB17827DEA99A00345F6F /* ContentView.swift */,
+				B71CB18427DEA9C500345F6F /* ChainedSpring.swift */,
 				B71CB17A27DEA99C00345F6F /* Assets.xcassets */,
 				B71CB17C27DEA99C00345F6F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B71CB18527DEA9C500345F6F /* ChainedSpring.swift in Sources */,
 				B71CB17927DEA99A00345F6F /* ContentView.swift in Sources */,
 				B71CB17727DEA99A00345F6F /* SpringAnimationApp.swift in Sources */,
 			);
